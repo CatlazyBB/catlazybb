@@ -4,7 +4,7 @@ just a random human who like cooking and coding i just know a bit of this progra
 
 ---
 
-## Language i use
+## 💻 Language i use
 
 ![C++](https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
@@ -14,7 +14,7 @@ just a random human who like cooking and coding i just know a bit of this progra
 
 ---
 
-### 🖥️ Tech & OS
+### 💻 Tech & OS
 <img src="https://img.shields.io/badge/Nyarch_Linux-89CFF0?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Nyarch Linux"/>
 <span></span>
 <img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11"/>
