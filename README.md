@@ -14,6 +14,13 @@ just a random human who like cooking and coding i just know a bit of this progra
 
 ---
 
+###  Local Dev Tools
+<img src="https://img.shields.io/badge/Laragon-FF6F61?style=for-the-badge&logo=laravel&logoColor=white"/>
+<img src="https://img.shields.io/badge/XAMPP-FB7A24?style=for-the-badge&logo=xampp&logoColor=white"/>
+<img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white"/>
+
+---
+
 ### 💻 Tech & OS
 <img src="https://img.shields.io/badge/Nyarch_Linux-89CFF0?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Nyarch Linux"/>
 <span></span>
