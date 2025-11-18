@@ -13,3 +13,14 @@ just a random human who like cooking and coding i just know a bit of this progra
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)
 
 ---
+
+### 💻 OS I Use
+<img align="center" src="https://img.shields.io/badge/Nyarch_Linux-89CFF0?style=for-the-badge&logo=arch-linux&logoColor=white" />
+<img align="center" src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" />
+
+### 🖥️ Tech & OS
+<img src="https://img.shields.io/badge/Nyarch_Linux-89CFF0?style=for-the-badge&logo=arch-linux&logoColor=white" alt="Nyarch Linux"/>
+<span> </span>
+<img src="https://img.shields.io/badge/Windows_11-0078D4?style=for-the-badge&logo=windows-11&logoColor=white" alt="Windows 11"/>
+<br/>
+<small>yes, i use arch (btw) + nyaa~</small>
